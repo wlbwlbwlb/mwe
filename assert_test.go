@@ -1,8 +1,6 @@
-package util
+package tool
 
-import (
-	"testing"
-)
+import "testing"
 
 func TestAssert(t *testing.T) {
 	var handlers []func()
