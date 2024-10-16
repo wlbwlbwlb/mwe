@@ -1,4 +1,4 @@
-package tool
+package mwe
 
 type Number interface {
 	int64 | int

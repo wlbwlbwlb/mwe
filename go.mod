@@ -1,4 +1,4 @@
-module github.com/wlbwlbwlb/tool
+module github.com/wlbwlbwlb/mwe
 
 go 1.23.2
 

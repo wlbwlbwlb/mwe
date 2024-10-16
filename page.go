@@ -1,4 +1,4 @@
-package tool
+package mwe
 
 func Pages(size int, total int64) (n int) {
 	i32 := int(total)

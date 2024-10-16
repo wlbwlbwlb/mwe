@@ -1,4 +1,4 @@
-package tool
+package mwe
 
 import "github.com/shopspring/decimal"
 
